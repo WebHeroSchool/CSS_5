@@ -1,9 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Shadows+Into+Light&display=swap');
+
 .h {
- font-family: 'Lobster', cursive;
- font-style: italic;
+ font-family: 'Monotype Corsiva';
  background: red;
 }
 p {
-  ont-family: 'Pacifico', cursive;
+  font-family: 'Pacifico', cursive;
 font-family: 'Shadows Into Light', cursive;
 }
