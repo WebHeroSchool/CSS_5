@@ -1,9 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Shadows+Into+Light&display=swap');
 
 .h {
- font-family: 'Arial Black';
- background: red;
+	font-family: 'Anton', italic;
+	background: red;
 }
+
 p {
-  font-family: 'Shadows Into Light', cursive;
+	font-family: 'Shadows Into Light', cursive;
 }
