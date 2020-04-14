@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Shadows+Into+Light&display=swap');
+
+.h {
+	font-family: 'Anton', italic;
+	background: red;
+}
+
+p {
+	font-family: 'Shadows Into Light', cursive;
+}
